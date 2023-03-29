@@ -1,10 +1,5 @@
-### Hi there 👋
-
-<!--
-**sonnyzxc/sonnyzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# Hi there 👋
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+---
+### <b>Classical Music</b>
+<a href="https://youtu.be/arKoBwtmuX0"> **Krystian Zimerman** - Brahms Piano Concerto No.1 (D Minor)
+<br>
+<a href="https://youtu.be/N088Me5TpYo"> **Vladimir Ashkenazy** - R. Schumann Symphonic Etudes Op. 13
