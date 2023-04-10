@@ -1,6 +1,7 @@
 # Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Study+for+exams;Procrastinate)](https://git.io/typing-svg)
-
+<!-- --- -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyzxc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
 ### <b>Personal Favourite Classical Music Recordings</b>
 <a href="https://youtu.be/arKoBwtmuX0"> **Krystian Zimerman** - J. Brahms Piano Concerto No.1 (D Minor)
