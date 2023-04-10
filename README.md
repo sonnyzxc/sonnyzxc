@@ -11,3 +11,7 @@
 <a href="https://youtu.be/wuZmMggpVt0"> **Yekwon Sunwoo** - S. Rachmaninov Piano Sonata No. 2 (B-flat Minor), Op. 36
 <br>
 <a href="https://youtu.be/e7ElSHRfOYU"> **Charles Richard-Hamelin** - F. Chopin Polonaise No. 5 (F-sharp Major), Op. 44
+<br>
+<a href="https://youtu.be/STo5xdHoWEU"> **Jack Yeo** - F. Chopin Etude Op. 25, No. 11 (A Minor)
+<br>
+<a href="https://youtu.be/0j9tHRDQNQI"> **Seon-Yong Hwang** - F. Liszt Grosse Konzertfantasie über spanische Weisen, S. 253
