@@ -7,7 +7,7 @@
 ### <b> Currently working on
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonnyzxc)](https://solved.ac/sonnyzxc)
 
-[![cf profile](https://cf.leed.at?id=sonnylmaooo)](https://codeforces.com/profile/sonnylmaooo)
+[![cf profile](https://cf.leed.at?id=sonnyzxc)](https://codeforces.com/profile/sonnyzxc)
 ---
 ### <b>Personal Favourite Classical Music Recordings</b>
 <a href="https://youtu.be/arKoBwtmuX0"> **Krystian Zimerman** - J. Brahms Piano Concerto No.1 (D Minor)
