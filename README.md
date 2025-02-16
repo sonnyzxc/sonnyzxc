@@ -1,15 +1,9 @@
 # Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Study+for+exams;Procrastinate)](https://git.io/typing-svg)
-<!-- --- -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyzxc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
----
-
-### <b> Currently working on
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonnyzxc)](https://solved.ac/sonnyzxc)
 
-[![cf profile](https://cf.leed.at?id=sonnyzxc)](https://codeforces.com/profile/sonnyzxc)
----
-### <b>Personal Favourite Classical Music Recordings</b>
+<!-- [![cf profile](https://cf.leed.at?id=sonnyzxc)](https://codeforces.com/profile/sonnyzxc) -->
+
+### :musical_note:
 <a href="https://youtu.be/arKoBwtmuX0"> **Krystian Zimerman** - J. Brahms Piano Concerto No. 1 (D Minor)
 <br>
 <a href="https://youtu.be/N088Me5TpYo"> **Vladimir Ashkenazy** - R. Schumann Symphonic Etudes Op. 13
