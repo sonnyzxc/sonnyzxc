@@ -1,6 +1,7 @@
 MEng Computing @ Imperial College London
 
 ### Experiences
+- Software Engineering Intern          @ Visa
 - Software Engineering Soldier         @ Republic of Korea Air Force
 - Software Development Engineer Intern @ Amazon
 
@@ -10,4 +11,4 @@ MEng Computing @ Imperial College London
 - Seon-Yong Hwang    — [Grosse Konzertfantasie über spanische Weisen, S. 253 (F. Liszt)](https://youtu.be/0j9tHRDQNQI)
 
 ### Contact
-[LinkedIn](https://linkedin.com/in/sonny-ku) · sk2722@ic.ac.uk
+[/in/sonny-ku](https://linkedin.com/in/sonny-ku) · sk2722@ic.ac.uk
